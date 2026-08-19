@@ -37,7 +37,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Halo123450\\": "src/"
+            "Adapterman\\": "src/"
         }
     },
     "autoload-dev": {

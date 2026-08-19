@@ -8,7 +8,7 @@ Create `server.php` in the project root directory with next content:
 
 require_once __DIR__.'/vendor/autoload.php';
 
-use Halo123450\Adapterman;
+use Adapterman\Adapterman;
 use Workerman\Worker;
 
 Adapterman::init();

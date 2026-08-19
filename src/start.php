@@ -1,6 +1,6 @@
 <?php
 
-use Halo123450\Adapterman;
+use Adapterman\Adapterman;
 use Adapterman\Http;
 use Workerman\Worker;
 use Workerman\Timer;
