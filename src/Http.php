@@ -8,7 +8,7 @@
  *
  * @author    Joan Miquel<https://github.com/joanhey>
  * @copyright Joan Miquel<https://github.com/joanhey>
- * @link      https://github.com/joanhey/AdapterMan
+ * @link      https://github.com/halo123450/AdapterMan
  * @license   http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
@@ -685,10 +685,15 @@ class Http
     /**
      * Http encode.
      *
-     * @param  string  $content
+     * @param  mixed  $content
      */
-    public static function encode(string $content, TcpConnection $connection): string
+    public static function encode($content, TcpConnection $connection): string
     {
+        // support object
+        if(is_object($content)){
+            return (string) $content;
+        }
+
         // http-code status line.
         $header = static::$status . "\r\n";
 

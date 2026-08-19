@@ -1,6 +1,6 @@
 <?php
 
-use Adapterman\Adapterman;
+use Halo123450\Adapterman;
 use Workerman\Worker;
 use Workerman\Connection\TcpConnection;
 

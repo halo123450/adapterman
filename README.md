@@ -3,9 +3,9 @@
   
 </p>
 
-[![Tests Adapterman](https://github.com/joanhey/AdapterMan/actions/workflows/test.yml/badge.svg)](https://github.com/joanhey/AdapterMan/actions/workflows/test.yml)
-[![GitHub release](https://img.shields.io/github/release/joanhey/adapterman.svg)](https://github.com/joanhey/adapterman/releases/latest)
-[![GitHub](https://img.shields.io/github/license/joanhey/adapterman)](https://github.com/joanhey/AdapterMan/blob/master/LICENSE.txt)
+[![Tests Adapterman](https://github.com/halo123450/AdapterMan/actions/workflows/test.yml/badge.svg)](https://github.com/halo123450/AdapterMan/actions/workflows/test.yml)
+[![GitHub release](https://img.shields.io/github/release/halo123450/AdapterMan.svg)](https://github.com/halo123450/AdapterMan/releases/latest)
+[![GitHub](https://img.shields.io/github/license/halo123450/AdapterMan)](https://github.com/halo123450/AdapterMan/blob/master/LICENSE.txt)
 
 **Faster, More Scalable Apps with Serverless Capabilities**  
 
@@ -130,7 +130,7 @@ server.php
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-use Adapterman\Adapterman;
+use Halo123450\Adapterman;
 use Workerman\Worker;
 
 Adapterman::init();

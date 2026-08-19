@@ -1,5 +1,5 @@
 {
-    "name": "joanhey/adapterman",
+    "name": "halo123450/AdapterMan",
     "type": "library",
     "keywords": [
         "workerman",
@@ -10,15 +10,15 @@
     "description": "Use any framework and application with Workerman.",
     "authors": [
         {
-            "name": "Joanhey",
-            "email": "joanhey@kumbiaphp.com",
-            "homepage": "https://kumbiaphp.com",
+            "name": "halo123450",
+            "email": "tan840027@qq.com",
+            "homepage": "https://s-3.cn",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/joanhey/adapterman/issues",
-        "source": "https://github.com/joanhey/adapterman"
+        "issues": "https://github.com/halo123450/AdapterMan/issues",
+        "source": "https://github.com/halo123450/AdapterMan"
     },
     "require": {
         "php": "^8.1",
@@ -37,7 +37,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Adapterman\\": "src/"
+            "Halo123450\\": "src/"
         }
     },
     "autoload-dev": {
