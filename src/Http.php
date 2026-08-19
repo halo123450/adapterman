@@ -685,10 +685,15 @@ class Http
     /**
      * Http encode.
      *
-     * @param  string  $content
+     * @param  mixed  $content
      */
-    public static function encode(string $content, TcpConnection $connection): string
+    public static function encode($content, TcpConnection $connection): string
     {
+        // support object
+        if(is_object($content)){
+            return (string) $content;
+        }
+
         // http-code status line.
         $header = static::$status . "\r\n";
 
