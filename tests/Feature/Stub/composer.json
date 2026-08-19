@@ -1,5 +1,5 @@
 {
-    "name": "joanhey/adapterman",
+    "name": "halo123450/AdapterMan",
     "type": "library",
     "keywords": [
         "workerman",
@@ -17,8 +17,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/joanhey/adapterman/issues",
-        "source": "https://github.com/joanhey/adapterman"
+        "issues": "https://github.com/halo123450/AdapterMan/issues",
+        "source": "https://github.com/halo123450/AdapterMan"
     },
     "require": {
         "php": "^8",

@@ -1,4 +1,4 @@
-# HTTP tests using Pestphp [![tests](https://github.com/joanhey/AdapterMan/actions/workflows/test.yml/badge.svg)](https://github.com/joanhey/AdapterMan/actions/workflows/test.yml)
+# HTTP tests using Pestphp [![tests](https://github.com/halo123450/AdapterMan/actions/workflows/test.yml/badge.svg)](https://github.com/halo123450/AdapterMan/actions/workflows/test.yml)
 
 To run the feature tests
 ```sh

@@ -8,7 +8,7 @@
  *
  * @author    Joan Miquel<https://github.com/joanhey>
  * @copyright Joan Miquel<https://github.com/joanhey>
- * @link      https://github.com/joanhey/AdapterMan
+ * @link      https://github.com/halo123450/AdapterMan
  * @license   http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
