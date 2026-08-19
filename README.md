@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/249085/197399760-5da8311e-5cf1-426a-a8
 
 ## Installation
 ```
-composer require joanhey/adapterman
+composer require halo123450/adapterman
 ```
 Automatically install Workerman too.
 
