@@ -130,7 +130,7 @@ server.php
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-use Halo123450\Adapterman;
+use Adapterman\Adapterman;
 use Workerman\Worker;
 
 Adapterman::init();
