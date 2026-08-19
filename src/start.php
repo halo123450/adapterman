@@ -1,4 +1,5 @@
 <?php
+
 use Halo123450\Adapterman;
 use Adapterman\Http;
 use Workerman\Worker;
@@ -12,7 +13,7 @@ require __DIR__ . '/frameworks/index.php';
 
 $http_worker = new Worker('http://0.0.0.0:8080');
 $http_worker->count = cpu_count() * 4;
-$http_worker->name = 'AdapterMan';
+$http_worker->name = 'Adapterman';
 
 $http_worker->onWorkerStart = function (Worker $worker) {
     if ($worker->id === 0) {

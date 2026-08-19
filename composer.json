@@ -10,15 +10,15 @@
     "description": "Use any framework and application with Workerman.",
     "authors": [
         {
-            "name": "halo123450",
+            "name": "tanqm",
             "email": "tan840027@qq.com",
             "homepage": "https://s-3.cn",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/halo123450/AdapterMan/issues",
-        "source": "https://github.com/halo123450/AdapterMan"
+        "issues": "https://github.com/halo123450/adapterman/issues",
+        "source": "https://github.com/halo123450/adapterman"
     },
     "require": {
         "php": "^8.1",
