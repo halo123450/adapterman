@@ -6,9 +6,9 @@
  * For full copyright and license information, please see the LICENSE.txt
  * Redistributions of files must retain the above copyright notice.
  *
- * @author    Joan Miquel<https://github.com/joanhey>
- * @copyright Joan Miquel<https://github.com/joanhey>
- * @link      https://github.com/halo123450/AdapterMan
+ * @author    Joan Miquel<https://github.com/halo123450>
+ * @copyright Joan Miquel<https://github.com/halo123450>
+ * @link      https://github.com/halo123450/adapterman
  * @license   http://www.opensource.org/licenses/mit-license.php MIT License
  */
 

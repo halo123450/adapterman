@@ -3,9 +3,9 @@
   
 </p>
 
-[![Tests Adapterman](https://github.com/halo123450/AdapterMan/actions/workflows/test.yml/badge.svg)](https://github.com/halo123450/AdapterMan/actions/workflows/test.yml)
-[![GitHub release](https://img.shields.io/github/release/halo123450/AdapterMan.svg)](https://github.com/halo123450/AdapterMan/releases/latest)
-[![GitHub](https://img.shields.io/github/license/halo123450/AdapterMan)](https://github.com/halo123450/AdapterMan/blob/master/LICENSE.txt)
+[![Tests Adapterman](https://github.com/halo123450/adapterman/actions/workflows/test.yml/badge.svg)](https://github.com/halo123450/adapterman/actions/workflows/test.yml)
+[![GitHub release](https://img.shields.io/github/release/halo123450/adapterman.svg)](https://github.com/halo123450/adapterman/releases/latest)
+[![GitHub](https://img.shields.io/github/license/halo123450/adapterman)](https://github.com/halo123450/adapterman/blob/master/LICENSE.txt)
 
 **Faster, More Scalable Apps with Serverless Capabilities**  
 
@@ -137,7 +137,7 @@ Adapterman::init();
 
 $http_worker                = new Worker('http://0.0.0.0:8080');
 $http_worker->count         = 8;
-$http_worker->name          = 'AdapterMan';
+$http_worker->name          = 'Adapterman';
 
 $http_worker->onWorkerStart = static function () {
     //init();
